@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas 👋
 
-**Full-stack C#/.NET Developer | WPF·WinForm · ASP.NET · Java/Spring | AI-Augmented Development | Healthcare·Finance·Logistics·Device-Control SI**
+**C# / Java | Full-Stack | AI-Augmented Development | Healthcare / Finance / Logistics / Device-Control SI**
 
 - 🤖 Boosting dev productivity & code quality with **Claude Code**-based AI pair programming
 - 💼 **13 project sites** across semiconductor · industrial control · security · media · finance · public · logistics · ERP · healthcare
